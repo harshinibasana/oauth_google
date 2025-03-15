@@ -1,3 +1,4 @@
 .env
-package-lock.json
-.env
+GOOGLE_CLIENT_ID=your-client-id-here
+GOOGLE_CLIENT_SECRET=your-secret-here
+
